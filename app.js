@@ -111,6 +111,6 @@ if(process.env.NODE_ENV !="production"){
     res.status(statusCode).render("error.ejs", { message });
   });
   
-  app.listen(8080, () => {
-    console.log("server is listening to port 8080");
+  app.listen(3000, () => {
+    console.log("server is listening to port 3000");
   });
