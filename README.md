@@ -1,1 +1,1 @@
-Website Link: https://wanderlust-ejou.onrender.com/
+Website Link: https://wanderlust-ejou.onrender.com/listings
